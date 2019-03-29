@@ -1,0 +1,6 @@
+thorntail:
+  http:
+    port: 60888
+  management:
+    http:
+      port: 60999
